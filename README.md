@@ -1,3 +1,7 @@
+# Karyna Fotre's SQL Portfolio
+
+## Welcome to my SQL portfolio! This code repository contains examples of SQL I've written. Feel free to take a look and reach out to me via email at kafotre@gmail.com if you have any questions.
+
 --Create a Wine Store database
 
 Create TABLE wine (id INTEGER PRIMARY KEY, name TEXT, PRICE INTEGER, rating INTEGER, aisle INTEGER);
